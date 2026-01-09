@@ -1,2 +1,2 @@
-## Front Page Content
-`beautifulhugo` supports content on your front page. Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md` if you don't want any content here.
+## Webseite ist gerade im Aufbau
+Diese Seite befindet sich im Aufbau und wird bald die OpenSource-Variante des Abstimmungstools von https://einfach-abstimmen.de beinhalten.
