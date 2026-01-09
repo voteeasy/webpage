@@ -125,6 +125,9 @@ pygmentsCodefencesGuessSyntax = true
     url = "tags"
     weight = 3
 
-
 [[module.imports]]
   path = "github.com/halogenica/beautifulhugo"
+
+enableGitInfo = true
+[Params]
+  commit = "https://github.com/voteeasy/webpage/tree/"
