@@ -7,7 +7,7 @@
 
 ## Local development
 
-´´´
+```sh
 cd site
 hugo serve
-´´´
+```
