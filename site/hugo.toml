@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseurl = "https://voteeasy.aiki-it.de"
 DefaultContentLanguage = "en"
 title = "VoteEasy"
 # Using theme as git submodule
