@@ -57,7 +57,7 @@ pygmentsCodefencesGuessSyntax = true
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Aiki IT"
   website = "https://voteeasy.aiki-it.de"
-  email = "youremail@domain.com"
+  email = "voteeasy@aiki-it.de"
 #  facebook = "username"
   github = "voteeasy"
 #  gitlab = "username"
