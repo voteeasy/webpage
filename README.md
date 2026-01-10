@@ -39,3 +39,11 @@ go 1.25.5 from Canonical✓ installed
 cd site
 hugo serve
 ```
+or
+```sh
+/run.sh
+```
+
+## Upload generated page to your hoster
+
+Adapt the [copyUpstream.sh.example](https://github.com/voteeasy/webpage/blob/main/copyUpstream.sh.example) to your needs and run it afterwards.
