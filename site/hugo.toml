@@ -19,6 +19,8 @@ pygmentsCodefencesGuessSyntax = true
     # id = "XXX"
 
 [Params]
+# Avoid loading stuff remotely
+  selfHosted = true
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "Dein einfaches Abstimmungswerkzeug"
   mainSections = ["post","posts"]
