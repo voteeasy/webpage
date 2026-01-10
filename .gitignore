@@ -1,4 +1,9 @@
 copyUpstream.sh
+.hugo_build.lock
+*.swp
+# do not check in generated stuff here
+site/public
+
 # This .gitignore is appropriate for repositories deployed to GitHub Pages and using
 # a Gemfile as specified at https://github.com/github/pages-gem#conventional
 
