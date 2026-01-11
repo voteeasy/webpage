@@ -20,4 +20,4 @@ rechtssicheres Abstimmungstool. Es ist einfach und intuitiv für Nutzer und eben
 ### Open Source
 
 Das Programm kann kostenfrei heruntergeladen und selbst betrieben werden, da es freie Software/open source ist.
-Für Supportanfragen stehen wir zur Verfügung und bieten Unterstützungspakete an.
+Für Supportanfragen stehen wir zur Verfügung und bieten individuell Unterstützung an.
