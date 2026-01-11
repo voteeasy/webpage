@@ -15,6 +15,7 @@ Gern später nochmal vorbeischauen.
 Da VoteEasy zwischen regulären Teilnehmern und Versammlungsleitern/Administratoren unterscheidet, hier eine Starthilfe:
 
 <icon class="fa fa-arrow-up">
+<i class="fas fa-user"></i>
 <i class="fab fa-facebook"></i>
 
 * [Kurz-Leitfaden für Teilnehmer (PDF)](/pdf/download/easy_leitfaden_teilnehmer_1.3.pdf)

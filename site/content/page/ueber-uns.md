@@ -1,16 +1,38 @@
 ---
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Über uns
+subtitle: Projekthistorie
 comments: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+VoteEasy ist ein einfaches Abstimmungstool, das als freie Software zur Verfügung steht.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### 2026
 
-What else do you need?
+Mit Beginn des Jahres 2026 entstand die Idee, die Weiterentwicklung von VoteEasy zu verändern.
+Im Zuge dessen wird der Quellcode auf GitHub zur Verfügung gestellt und
+diese Webseite dient zur Dokumentation.
 
-### my history
+### 2025
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Im Rahmen des kommerziellen Betriebs von VoteEasy entstanden Kosten für den Betrieb und das Hosting der Anwendung.
+Die Weiterentwicklung von VoteEasy erfolgte in deutscher, französischer und englischer Sprache.
+Der Technologiestack wurde von SpringBoot2 auf SpringBoot3 weiterentwickelt.
+
+Funktionall entstanden bis 2025:
+
+* Auswertungsmöglichkeiten für Administratoren
+* UI-Anpassungen zur einfacheren Abstimmung
+* Änderung von Passwort/Nutzernamen
+* Einladungsfunktionen und tenantspezifische Einstellungen
+* Selbstregistrierung
+
+### 2020
+
+Infolge der Maßnahmen im Rahmen der Covidmaßnahmenkrise stieg der Bedarf für elektronisch durchzuführende Abstimmungen
+und die Idee für VoteEasy entstand. Nach vielen Stunden der Entwicklung ging das Projekt
+auf der Plattform Heroku live:
+* einfache Abstimmungen ohne Mailadressen
+* 3geteilter Login: Tenant - User - Passwort
+* Organisationsadministration
+* Freischaltung neuer Organisationen durch uns
+
