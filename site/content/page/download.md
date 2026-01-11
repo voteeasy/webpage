@@ -6,7 +6,7 @@ comments: false
 
 # Quellcode
 
-Wir arbeiten an einer Freigbe via GitHub!
+Wir arbeiten an einer Freigabe via [GitHub](https://github.com/voteeasy)!
 
 Gern später nochmal vorbeischauen.
 
