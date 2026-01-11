@@ -1,5 +1,5 @@
 copyUpstream.sh
-.hugo_build.lock
+**/.hugo_build.lock
 *.swp
 # do not check in generated stuff here
 site/public
