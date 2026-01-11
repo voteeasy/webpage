@@ -26,7 +26,7 @@ pygmentsCodefencesGuessSyntax = true
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
-  dateFormat = "2026-01-02"
+  dateFormat = "2023-10-15"
   rss = true
   comments = true
   readingTime = true
@@ -92,13 +92,13 @@ pygmentsCodefencesGuessSyntax = true
 #  bluesky = "username"
 
 [[menu.main]]
-    name = "Blog"
-    url = ""
+    name = "Download"
+    url = "page/download/"
     weight = 1
 
 [[menu.main]]
-    name = "About"
-    url = "page/about/"
+    name = "Über uns"
+    url = "page/ueber-uns/"
     weight = 3
 
 [[menu.main]]
@@ -124,10 +124,10 @@ pygmentsCodefencesGuessSyntax = true
     url = "post/2016-03-08-code-sample"
     weight = 3
 
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3
+#[[menu.main]]
+#    name = "Tags"
+#    url = "tags"
+#    weight = 3
 
 [[module.imports]]
   path = "github.com/halogenica/beautifulhugo"
