@@ -97,14 +97,19 @@ pygmentsCodefencesGuessSyntax = true
     weight = 1
 
 [[menu.main]]
+    name = "Demo"
+    url = "page/demo/"
+    weight = 2
+
+[[menu.main]]
     name = "Über uns"
     url = "page/ueber-uns/"
     weight = 3
 
 [[menu.main]]
     identifier = "samples"
-    name = "Samples"
-    weight = 2
+    name = "Examples"
+    weight = 4
 
 [[menu.main]]
     parent = "samples"
