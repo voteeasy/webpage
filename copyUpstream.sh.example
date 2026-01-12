@@ -4,4 +4,4 @@ rm -rf ./site/public/*
 echo "*** Starting to generate stuff ...."
 cd site; hugo --gc --minify --enableGitInfo
 echo "Will upload stuff from current directory to hoster ..... "
-scp -O -r public/* myuser@myhost.com:~/htdocs/myuri/
+scp -O -r public/* myuser@myhost.com:~/htdocs/myuri
