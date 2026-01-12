@@ -139,3 +139,7 @@ pygmentsCodefencesGuessSyntax = true
 
 # Show version information
 enableGitInfo = true
+
+# Allow referencing fontawesome icons or direct HTML
+[markup.goldmark.renderer]
+  unsafe = true
