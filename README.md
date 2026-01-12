@@ -62,4 +62,4 @@ just rerun hugo serve multiple times until the message disappears.
 
 * [Typo in shell script](https://github.com/halogenica/beautifulhugo/pull/547)
 * [Reference icons](https://github.com/halogenica/beautifulhugo/issues/549#issuecomment-3736990380)
-* Mailto in social sharing
+* [Mailto in social sharing](https://github.com/halogenica/beautifulhugo/pull/550)
