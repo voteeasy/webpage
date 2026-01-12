@@ -57,3 +57,9 @@ In case you experience this error message:
 Error: error copying static files: open voteeasy/webpage/site/public/img/avatar-icon.png: permission denied
 ```
 just rerun hugo serve multiple times until the message disappears.
+
+## Theme questions / contributions
+
+* [Typo in shell script](https://github.com/halogenica/beautifulhugo/pull/547)
+* [Reference icons](https://github.com/halogenica/beautifulhugo/issues/549#issuecomment-3736990380)
+* Mailto in social sharing
