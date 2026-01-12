@@ -33,6 +33,38 @@ $ sudo snap install go --classic
 go 1.25.5 from Canonical✓ installed
 ```
 
+## How to get theme updates?
+
+In case you installed as hugo module:
+
+```sh
+$ hugo mod get
+```
+
+Download starts and you will get the following diff:
+
+```sh
+diff --git a/site/go.mod b/site/go.mod
+index c21a339..6a0bc4e 100644
+--- a/site/go.mod
++++ b/site/go.mod
+@@ -2,4 +2,4 @@ module github.com/voteeasy/webpage
+
+go 1.25.3
+
+-require github.com/halogenica/beautifulhugo v0.0.0-20251212183709-c3c3bbb7370d // indirect
++require github.com/halogenica/beautifulhugo v0.0.0-20260112152821-6173aa260601 // indirect
+diff --git a/site/go.sum b/site/go.sum
+index 5fe239b..cf39796 100644
+--- a/site/go.sum
++++ b/site/go.sum
+@@ -1,2 +1,4 @@
+github.com/halogenica/beautifulhugo v0.0.0-20251212183709-c3c3bbb7370d h1:EsekjF0bASegdBSWPTnc8l0fhsmv/w7jmO2XgEpCItU=
+github.com/halogenica/beautifulhugo v0.0.0-20251212183709-c3c3bbb7370d/go.mod h1:4dwHt6njigk+fr9W3Bg+OflL4LKzkjbXAULXvr3mYLs=
++github.com/halogenica/beautifulhugo v0.0.0-20260112152821-6173aa260601 h1:TgaiISjn8jN5jbK40fTvNafaznGDnSpgk+MsR/uqyJk=
++github.com/halogenica/beautifulhugo v0.0.0-20260112152821-6173aa260601/go.mod h1:4dwHt6njigk+fr9W3Bg+OflL4LKzkjbXAULXvr3mYLs=
+```
+
 ## Local development
 
 ```sh
