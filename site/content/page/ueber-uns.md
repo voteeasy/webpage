@@ -6,11 +6,21 @@ comments: false
 
 VoteEasy ist ein einfaches Abstimmungstool, das als freie Software zur Verfügung steht.
 
-### 2026
+Bei technischen oder inhaltlichen Anfragen gern [individuell melden](&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#118;&#111;&#116;&#101;&#101;&#97;&#115;&#121;&#64;&#97;&#105;&#107;&#105;&#45;&#105;&#116;&#46;&#100;&#101;&#63;&#115;&#117;&#98;&#106;&#101;&#99;&#116;&#61;&#65;&#110;&#102;&#114;&#97;&#103;&#101;&nbsp;&#122;&#117;&nbsp;&#86;&#111;&#116;&#101;&#69;&#97;&#115;&#121;)
 
-Mit Beginn des Jahres 2026 entstand die Idee, die Weiterentwicklung von VoteEasy zu verändern.
-Im Zuge dessen wird der Quellcode auf GitHub zur Verfügung gestellt und
-diese Webseite dient zur Dokumentation.
+Wir finden einen Weg.
+
+### 2020
+
+Infolge der Maßnahmen im Rahmen der Covidmaßnahmenkrise stieg der Bedarf für elektronisch durchzuführende Abstimmungen
+und die Idee für VoteEasy entstand.
+
+Nach vielen Stunden der Entwicklung ging das Projekt
+auf der Plattform Heroku live:
+* einfache Abstimmungen ohne Mailadressen
+* 3geteilter Login: Tenant - User - Passwort
+* Organisationsadministration
+* Freischaltung neuer Organisationen durch uns
 
 ### 2025
 
@@ -26,13 +36,8 @@ Funktionall entstanden bis 2025:
 * Einladungsfunktionen und tenantspezifische Einstellungen
 * Selbstregistrierung
 
-### 2020
+### 2026
 
-Infolge der Maßnahmen im Rahmen der Covidmaßnahmenkrise stieg der Bedarf für elektronisch durchzuführende Abstimmungen
-und die Idee für VoteEasy entstand. Nach vielen Stunden der Entwicklung ging das Projekt
-auf der Plattform Heroku live:
-* einfache Abstimmungen ohne Mailadressen
-* 3geteilter Login: Tenant - User - Passwort
-* Organisationsadministration
-* Freischaltung neuer Organisationen durch uns
-
+Mit Beginn des Jahres 2026 entstand die Idee, die Weiterentwicklung von VoteEasy zu verändern.
+Im Zuge dessen wird der Quellcode auf GitHub zur Verfügung gestellt und
+diese Webseite dient zur Dokumentation.
