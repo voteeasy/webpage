@@ -47,3 +47,13 @@ or
 ## Upload generated page to your hoster
 
 Adapt the [copyUpstream.sh.example](https://github.com/voteeasy/webpage/blob/main/copyUpstream.sh.example) to your needs and run it afterwards.
+
+## Known errors
+
+## Permission denied for static assets
+
+In case you experience this error message:
+```sh
+Error: error copying static files: open voteeasy/webpage/site/public/img/avatar-icon.png: permission denied
+```
+just rerun hugo serve multiple times until the message disappears.
