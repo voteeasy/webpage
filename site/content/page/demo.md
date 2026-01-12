@@ -1,5 +1,5 @@
 ---
-title: Demo
+title: Beispiele
 subtitle: Wie VoteEasy als Anwendung aussieht?
 comments: false
 ---
@@ -20,9 +20,9 @@ tbd
 
 tbd
 
-# Abstimmungen
+# Abstimmungsübersicht
 
-tbd
+![Beispielabstimmung](/img/demo/abstimmung.png)
 
 ## Anlegen
 
