@@ -1,5 +1,5 @@
 ---
-title: Beispiele
+title: Übersicht
 subtitle: Wie VoteEasy als Anwendung aussieht?
 comments: false
 ---
