@@ -1,8 +1,10 @@
 # webpage
 
-* https://github.com/halogenica/beautifulhugo
-* https://gohugo.io/getting-started/quick-start/
+## External references / resources
+
+* Theme: https://github.com/halogenica/beautifulhugo
 * Example: https://hugo-theme-beautifulhugo.netlify.app/
+* CMS/Hugo: https://gohugo.io/getting-started/quick-start/
 
 ## Hugo installation
 
