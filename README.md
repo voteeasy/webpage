@@ -12,15 +12,18 @@ Get a recent version, such as
 
 ```sh
 $ hugo version
-hugo v0.152.2-6abdacad3f3fe944ea42177844469139e81feda6+extended linux/amd64 BuildDate=2025-10-24T15:31:49Z VendorInfo=snap:0.152.2
+hugo v0.152.2-6abdacad3f3fe944ea42177844469139e81feda6+extended
+linux/amd64 BuildDate=2025-10-24T15:31:49Z VendorInfo=snap:0.152.2
 ```
 
 ## Mac installation
 
-As the theme is installed as a go module you may run into an error message if there's no go available:
+As the theme is installed as a hugo module you may run into an error message if there's no go available:
 
 ```
-Error: command error: failed to load modules: failed to download modules: failed to execute 'go [mod download]': failed to execute binary "go" with args [mod download]: go: go.mod requires go >= 1.25.5 (running go 1.25.3)
+Error: command error:
+failed to load modules: failed to download modules: failed to execute 'go [mod download]':
+failed to execute binary "go" with args [mod download]: go: go.mod requires go >= 1.25.5 (running go 1.25.3)
  *errors.errorString
 ```
 
@@ -43,7 +46,7 @@ In case you installed as hugo module:
 $ hugo mod get
 ```
 
-Download starts and you will get the following diff:
+Download starts and you will get a diff such as:
 
 ```sh
 diff --git a/site/go.mod b/site/go.mod
@@ -104,5 +107,5 @@ just rerun hugo serve multiple times until the message disappears.
 * [GitPageInfo contains wrong date](https://github.com/halogenica/beautifulhugo/issues/552)
 * [Handle singular/plural values in reading time](https://github.com/halogenica/beautifulhugo/pull/553), adapt [en](https://github.com/halogenica/beautifulhugo/pull/554) default as well
 
-### Questsions / discussions
+### Questions / discussions
 * Question: [allow ASCII-encoding of mail addresses](https://github.com/halogenica/beautifulhugo/issues/548)
