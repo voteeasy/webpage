@@ -149,6 +149,7 @@ weight = 3
 #    weight = 4
 
 [[module.imports]]
+# if imported as a hugo module
 path = "github.com/halogenica/beautifulhugo"
 
 # Show version information
