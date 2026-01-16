@@ -1,5 +1,5 @@
 baseurl = "https://voteeasy.aiki-it.de"
-DefaultContentLanguage = "de"
+DefaultContentLanguage = "en" # change to e.g. "de" to see translations
 title = "VoteEasy"
 # Using theme as git submodule
 # theme = "beautifulhugo"
