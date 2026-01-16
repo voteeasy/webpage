@@ -1,5 +1,7 @@
 # webpage
 
+This project contains the webpage of VoteEasy published at https://voteeasy.aiki-it.de
+
 ## External references / resources
 
 * Theme: https://github.com/halogenica/beautifulhugo
