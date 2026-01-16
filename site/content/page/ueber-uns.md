@@ -28,7 +28,7 @@ Im Rahmen des kommerziellen Betriebs von VoteEasy entstanden Kosten für den Bet
 Die Weiterentwicklung von VoteEasy erfolgte in deutscher, französischer und englischer Sprache.
 Der Technologiestack wurde von SpringBoot2 auf SpringBoot3 weiterentwickelt.
 
-Funktionall entstanden bis 2025:
+Funktional entstanden bis 2025:
 
 * Auswertungsmöglichkeiten für Administratoren
 * UI-Anpassungen zur einfacheren Abstimmung
