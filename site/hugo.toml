@@ -1,5 +1,5 @@
 baseurl = "https://voteeasy.aiki-it.de"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 title = "VoteEasy"
 # Using theme as git submodule
 # theme = "beautifulhugo"
@@ -59,6 +59,8 @@ since = 2019
 # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
 name = "Aiki IT"
 website = "https://voteeasy.aiki-it.de"
+# Test for https://github.com/halogenica/beautifulhugo/issues/548
+# email = &#102;&#111;&#111;&#64;&#98;&#97;&#114;&#46;&#99;&#111;&#109;
 email = "voteeasy@aiki-it.de"
 #  facebook = "username"
 github = "voteeasy"
