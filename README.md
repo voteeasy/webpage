@@ -98,3 +98,4 @@ just rerun hugo serve multiple times until the message disappears.
 * [German translation errors](https://github.com/halogenica/beautifulhugo/pull/551)
 * Colour code of the icon is `#ed9b57`
 * [GitPageInfo contains wrong date](https://github.com/halogenica/beautifulhugo/issues/552)
+* Question: [allow ASCII-encoding of mail addresses](https://github.com/halogenica/beautifulhugo/issues/548)
