@@ -92,10 +92,15 @@ just rerun hugo serve multiple times until the message disappears.
 
 ## Theme questions / contributions
 
+### Merge requests
+
 * [Typo in shell script](https://github.com/halogenica/beautifulhugo/pull/547)
 * [Reference icons](https://github.com/halogenica/beautifulhugo/issues/549#issuecomment-3736990380)
 * [Mailto in social sharing](https://github.com/halogenica/beautifulhugo/pull/550)
 * [German translation errors](https://github.com/halogenica/beautifulhugo/pull/551)
 * Colour code of the icon is `#ed9b57`
 * [GitPageInfo contains wrong date](https://github.com/halogenica/beautifulhugo/issues/552)
+* [Handle singular/plural values in reading time](https://github.com/halogenica/beautifulhugo/pull/553)
+
+### Questsions / discussions
 * Question: [allow ASCII-encoding of mail addresses](https://github.com/halogenica/beautifulhugo/issues/548)
