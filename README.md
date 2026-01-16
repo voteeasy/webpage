@@ -102,7 +102,7 @@ just rerun hugo serve multiple times until the message disappears.
 * [German translation errors](https://github.com/halogenica/beautifulhugo/pull/551)
 * Colour code of the icon is `#ed9b57`
 * [GitPageInfo contains wrong date](https://github.com/halogenica/beautifulhugo/issues/552)
-* [Handle singular/plural values in reading time](https://github.com/halogenica/beautifulhugo/pull/553)
+* [Handle singular/plural values in reading time](https://github.com/halogenica/beautifulhugo/pull/553), adapt [en](https://github.com/halogenica/beautifulhugo/pull/554) default as well
 
 ### Questsions / discussions
 * Question: [allow ASCII-encoding of mail addresses](https://github.com/halogenica/beautifulhugo/issues/548)
