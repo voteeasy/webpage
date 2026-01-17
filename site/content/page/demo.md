@@ -22,7 +22,7 @@ comments: false
 
 ## Funktionsumfang
 
-Da ein Bild oft mehr sagt als tausend Worte geben die folgenden Seiten Beispielansichten von VoteEasy wieder im Bereich:
+Da ein Bild oft mehr sagt als tausend Worte zeigen die folgenden Seiten Beispielansichten von VoteEasy im Bereich:
 
 * [Registrierung und Login](./registerlogin)
 * [Abstimmungen](./abstimmungen)
