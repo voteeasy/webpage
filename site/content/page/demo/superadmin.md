@@ -24,13 +24,9 @@ tbd
 
 ![Beispielabstimmung](/img/demo/abstimmung.png)
 
-## Anlegen
-
-tbd
-
-## Auswertung
-
-tbd
+Jede laufende VoteEasy-Anwendung verfügt über einen VoteEasy-Superadmin, der die laufende Instanz verwaltet und folgende Funktionen wahrnehmen kann:
+* Organisationen manuell anlegen oder löschen
+* Übersicht zur laufenden Instanz (Datenmenge)
 
 # Organisationsverwaltung
 
