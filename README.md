@@ -2,6 +2,8 @@
 
 This project contains the webpage of VoteEasy published at https://voteeasy.aiki-it.de
 
+<img src="https://img.shields.io/liberapay/receives/ottlinger.svg?logo=liberapay">
+
 ## External references / resources
 
 * Theme: https://github.com/halogenica/beautifulhugo
