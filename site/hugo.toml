@@ -42,6 +42,8 @@ hideAuthor = true
 commit = "https://github.com/voteeasy/webpage/tree/"
 # Copyright since in footer
 since = 2019
+# show last modified
+showPageDates = true
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
