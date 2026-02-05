@@ -50,6 +50,12 @@ In case you installed as hugo module got to the site-subfolder and:
 $ hugo mod get
 ```
 
+or use the convenience helper script in this project's basefolder:
+
+```sh
+$ ./updateTheme.sh
+```
+ 
 Download starts and you will get a diff such as:
 
 ```sh
@@ -84,6 +90,7 @@ or
 ```sh
 /run.sh
 ```
+to also get Git information into the pages.
 
 ## Upload generated page to your hoster
 
