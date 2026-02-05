@@ -44,7 +44,7 @@ go 1.25.5 from Canonical✓ installed
 
 ## How to get theme updates?
 
-In case you installed as hugo module:
+In case you installed as hugo module got to the site-subfolder and:
 
 ```sh
 $ hugo mod get
