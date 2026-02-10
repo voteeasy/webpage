@@ -1,6 +1,6 @@
 ---
 title: Als Administrator
-subtitle: Wie VoteEasy als Anwendung aussieht?
+subtitle: Wie man in VoteEasy eine Organisation konfiguriert?
 comments: false
 ---
 

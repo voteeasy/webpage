@@ -1,10 +1,17 @@
 ---
 title: Als VoteEasy-Superadmin
-subtitle: Wie VoteEasy als Anwendung aussieht?
+subtitle: Wie VoteEasy konfiguriert werden kann?
 comments: false
 ---
 
-# Selbstregistrierung
+Der Superadmin dient der Verwaltung Ihrer laufenden VoteEasy-Anwendung und sollte - außer zu Testzwecken -
+*nicht* zur regulären Abstimmungs-/Meetingarbeit verwendet werden!
+
+# Organisationsverwaltung
+
+# allgemeine Administration
+
+* Datenbankinhalte
 
 tbd
 
