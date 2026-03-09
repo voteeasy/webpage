@@ -10,7 +10,7 @@ Bei technischen oder inhaltlichen Anfragen gern [individuell melden](&#109;&#97;
 
 Wir finden einen Weg.
 
-## Anwendungszenarien
+## Anwendungsszenarien
 
 VoteEasy kannst Du für dutzende Abstimmungen einsetzen, wie z.B.
 
