@@ -10,6 +10,19 @@ Bei technischen oder inhaltlichen Anfragen gern [individuell melden](&#109;&#97;
 
 Wir finden einen Weg.
 
+## Anwendungszenarien
+
+VoteEasy kannst Du für dutzende Abstimmungen einsetzen, wie z.B.
+
+* Verein – Vorstandssitzung, Gremiensitzung, Mitgliederversammlung, Delegiertenversammlung, Beiratsversammlung;
+* Betrieb - Betriebsversammlung, Wahlen
+* Partei/Genossenschaften – Ortsgruppensitzung, Vorstandssitzung, Ortsverbandssitzung, Landesvorstandssitzung, Abteilungsversammlung;
+* Bürgerversammlung – partizipative Bürgerumfrage, Ortsteilumfrage, Quartiersmanagement
+* Kita/Schule – Elternversammlung, Lehrerversammlung, Bezirkselternausschuss, Umfrage unter Schülern
+* Sonstiges – Urlaubsabstimmung, Restaurantauswahl, Geschenkebestimmung
+
+## Entstehungsgeschichte
+
 ### <i class="fa fa-rocket" style='font-size:32px;color:#ed9b57'></i> 2020
 
 Infolge der Maßnahmen im Rahmen der Covidmaßnahmenkrise stieg der Bedarf für elektronisch durchzuführende Abstimmungen
