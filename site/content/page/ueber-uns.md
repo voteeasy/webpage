@@ -23,17 +23,11 @@ VoteEasy kannst Du für dutzende Abstimmungen einsetzen, wie z.B.
 
 ## Entstehungsgeschichte
 
-### <i class="fa fa-rocket" style='font-size:32px;color:#ed9b57'></i> 2020
+### <i class="fa fa-people-group" style='font-size:32px;color:#ed9b57'></i> 2026
 
-Infolge der Maßnahmen im Rahmen der Covidmaßnahmenkrise stieg der Bedarf für elektronisch durchzuführende Abstimmungen
-und die Idee für VoteEasy entstand.
-
-Nach vielen Stunden der Entwicklung ging das Projekt
-auf der Plattform Heroku live:
-* einfache Abstimmungen ohne Mailadressen
-* 3geteilter Login: Tenant - User - Passwort
-* Organisationsadministration
-* Freischaltung neuer Organisationen durch uns
+Mit Beginn des Jahres 2026 entstand die Idee, die Weiterentwicklung von VoteEasy zu verändern.
+Im Zuge dessen wird der Quellcode auf GitHub zur Verfügung gestellt und
+diese Webseite dient zur Dokumentation.
 
 ### <i class="fa fa-magnifying-glass-plus" style='font-size:32px;color:#ed9b57'></i> 2025
 
@@ -49,8 +43,14 @@ Funktional entstanden bis 2025:
 * Einladungsfunktionen und tenantspezifische Einstellungen
 * Selbstregistrierung
 
-### <i class="fa fa-people-group" style='font-size:32px;color:#ed9b57'></i> 2026
+### <i class="fa fa-rocket" style='font-size:32px;color:#ed9b57'></i> 2020
 
-Mit Beginn des Jahres 2026 entstand die Idee, die Weiterentwicklung von VoteEasy zu verändern.
-Im Zuge dessen wird der Quellcode auf GitHub zur Verfügung gestellt und
-diese Webseite dient zur Dokumentation.
+Infolge der Maßnahmen im Rahmen der Covidmaßnahmenkrise stieg der Bedarf für elektronisch durchzuführende Abstimmungen
+und die Idee für VoteEasy entstand.
+
+Nach vielen Stunden der Entwicklung ging das Projekt
+auf der Plattform Heroku live:
+* einfache Abstimmungen ohne Mailadressen
+* 3geteilter Login: Tenant - User - Passwort
+* Organisationsadministration
+* Freischaltung neuer Organisationen durch uns
