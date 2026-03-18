@@ -42,7 +42,7 @@ eintragen und sich anmelden können.
 
 Hat man vom Organisationsadmin einen Zugangscode erhalten, so muss man diesen als Benutzername eingeben, um den Token einmalig zu aktivieren und Zugang zu VoteEasy zu erhalten.
 
-Im Beispiel wäre hier **00961102-87** der einzugebende Benutzername, um sich mit einem selbst gewählten Passwort kombiniert zu registrieren und anzumelden.
+Im Beispiel wäre hier **00961102-87** der einzugebende Benutzername, um sich kombiniert mit einem selbst gewählten Passwort zu registrieren und anzumelden.
 
 ![Token](/img/demo/registerlogin/tokenbeispiel.png)
 
@@ -53,15 +53,21 @@ Stattdessen kann man sich mit dem Code als Nutzername regulär anmelden.
 
 ## als Teilnehmer
 
+![Teilnehmer Footer](/img/demo/registerlogin/user-footer.png)
+
 Als regulärer Teilnehmer sieht man im Seitenfuß einen grünen Kringel.
 Man kann nur an Abstimmungen teilnehmen.
 
 ## als Administrator
 
+![Admin Footer](/img/demo/registerlogin/admin-footer.png)
+
 Als Administrator einer Organisation sieht man im Seitenfuß einen grünen und einen gelben Kringel und hat ein orange gefärbtes Admin-Menü in der Menüleiste.
 Neben der Teilnahme an Abstimmungen kann der Administrator neue Abstimmungen konfigurieren und selbst an Abstimmungen teilnehmen.
 
 ## als VoteEasy-Superadmin
+
+![SuperAdmin Footer](/img/demo/registerlogin/superadmin-footer.png)
 
 Als Superadmin sieht man im Seitenfuß einen grünen, gelben und roten Kringel und hat ein rot gefärbtes Admin-Menü in der Menüleiste.
 
