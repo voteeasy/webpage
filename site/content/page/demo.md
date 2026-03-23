@@ -4,6 +4,13 @@ subtitle: Was kann VoteEasy als Anwendung?
 comments: false
 ---
 
+<center>
+<video controls preload="auto" width="320" height="240" poster="../../video/voteeasy-poster.png">
+  <source src="../../video/voteeasy.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+
 ## Funktionsumfang
 
 Da ein Bild oft mehr sagt als tausend Worte, zeigen die folgenden Seiten Beispielansichten von VoteEasy im Bereich:

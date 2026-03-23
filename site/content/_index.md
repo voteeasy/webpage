@@ -1,5 +1,5 @@
 <center>
-<video controls="" autoplay="" preload="auto" width="320" height="240" poster="video/voteeasy-poster.png">
+<video controls autoplay="" preload="auto" width="320" height="240" poster="video/voteeasy-poster.png">
   <source src="video/voteeasy.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
