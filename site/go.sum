@@ -26,3 +26,5 @@ github.com/halogenica/beautifulhugo v0.0.0-20260608222457-7d395cdc7465 h1:CYdvyG
 github.com/halogenica/beautifulhugo v0.0.0-20260608222457-7d395cdc7465/go.mod h1:4dwHt6njigk+fr9W3Bg+OflL4LKzkjbXAULXvr3mYLs=
 github.com/halogenica/beautifulhugo v0.0.0-20260610201901-18c846f83df6 h1:z3VupaZ1StTkdFzJ2rWxhHUNZkK5uKLblJJgG7nUiG0=
 github.com/halogenica/beautifulhugo v0.0.0-20260610201901-18c846f83df6/go.mod h1:4dwHt6njigk+fr9W3Bg+OflL4LKzkjbXAULXvr3mYLs=
+github.com/halogenica/beautifulhugo v0.0.0-20260706190448-b2d547f7a61c h1:LtPm8HKo+UdoscS6xlcwtDNVGpiGHKQegHr9GGNwSkQ=
+github.com/halogenica/beautifulhugo v0.0.0-20260706190448-b2d547f7a61c/go.mod h1:4dwHt6njigk+fr9W3Bg+OflL4LKzkjbXAULXvr3mYLs=
