@@ -1,10 +1,6 @@
 baseurl = "https://voteeasy.aiki-it.de"
 DefaultContentLanguage = "en" # change to e.g. "de" to see translations
 title = "VoteEasy"
-# Using theme as git submodule
-# theme = "beautifulhugo"
-# Or when using theme as hugo module
-theme = "github.com/halogenica/beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
@@ -155,7 +151,7 @@ weight = 3
 
 [[module.imports]]
 # if imported as a hugo module
-path = "github.com/halogenica/beautifulhugo"
+path = "github.com/halogenica/beautifulhugo/v5"
 
 # Show version information
 enableGitInfo = true
