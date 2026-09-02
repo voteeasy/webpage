@@ -1,0 +1,17 @@
+<div style="text-align: center;">
+<video
+controls
+preload="{{ .Get "preload" | default "auto" }}"
+{{- if .Get "autoplay" }} autoplay{{ end }}
+{{- if .Get "muted" }} muted{{ end }}
+{{- if .Get "loop" }} loop{{ end }}
+{{- with .Get "max-width" }}
+style="width: 100%; max-width: {{ . }}; height: auto;"
+{{ end }}
+{{- with .Get "poster" }} poster="{{ . }}"{{ end }}
+>
+
+<source src="{{ .Get "src" }}" type="{{ .Get "type" | default "video/mp4" }}">
+Your browser does not support the video tag, thus no video for you.
+</video>
+</div>

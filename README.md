@@ -121,6 +121,7 @@ just rerun hugo serve multiple times until the message disappears.
 ### Questions / discussions
 * Question: [allow ASCII-encoding of mail addresses](https://github.com/halogenica/beautifulhugo/issues/548)
 * [How to add video contents](https://github.com/halogenica/beautifulhugo/issues/577)
+   * Shortcodes inspired by https://github.com/halogenica/beautifulhugo/pull/303 and augmented with the help of AI 🤖
 * [How to handle deprecation warning of .Site.Data/hugo.Data](https://github.com/halogenica/beautifulhugo/issues/581)
 * [Gallery not rendered anymore after update](https://github.com/halogenica/beautifulhugo/issues/640)
 * [Problems to update to v5](https://github.com/halogenica/beautifulhugo/issues/799)
