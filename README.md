@@ -80,6 +80,14 @@ github.com/halogenica/beautifulhugo v0.0.0-20251212183709-c3c3bbb7370d/go.mod h1
 +github.com/halogenica/beautifulhugo v0.0.0-20260112152821-6173aa260601/go.mod h1:4dwHt6njigk+fr9W3Bg+OflL4LKzkjbXAULXvr3mYLs=
 ```
 
+In order to tidy up the go module configuration it may make sense to run:
+```
+$ cd site
+$ hugo mod tidy
+```
+
+frequently.
+
 ## Local development
 
 ```sh
