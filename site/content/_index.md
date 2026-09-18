@@ -5,7 +5,7 @@ title: VoteEasy
 {{< video
 src="/video/voteeasy.mp4"
 max-width="640px"
-poster="video/voteeasy-poster.png">}}
+poster="/video/voteeasy-poster.png">}}
 
 ## Haupteigenschaften
 ### <i class="fa fa-user-shield" style='font-size:32px;color:#ed9b57'></i> Datenschutz

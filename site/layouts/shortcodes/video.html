@@ -6,8 +6,7 @@ preload="{{ .Get "preload" | default "auto" }}"
 {{- if .Get "muted" }} muted{{ end }}
 {{- if .Get "loop" }} loop{{ end }}
 {{- with .Get "max-width" }}
-style="width: 100%; max-width: {{ . }}; height: auto;"
-{{ end }}
+style="width: 100%; max-width: {{ . }}; height: auto;"{{ end }}
 {{- with .Get "poster" }} poster="{{ . }}"{{ end }}
 >
 
