@@ -3,6 +3,11 @@ title: Funktionsübersicht
 subtitle: Was kann VoteEasy als Anwendung?
 comments: false
 ---
+{{< video
+src="/video/voteeasy.mp4"
+max-width="640px"
+poster="/video/voteeasy-poster.png">}}
+
 ## Funktionsumfang
 
 Da ein Bild oft mehr sagt als tausend Worte, zeigen die folgenden Seiten Beispielansichten von VoteEasy im Bereich:
@@ -12,11 +17,6 @@ Da ein Bild oft mehr sagt als tausend Worte, zeigen die folgenden Seiten Beispie
 * [als Teilnehmer](./teilnehmer)
 * [als Administrator einer Organisation/Tenants](./administrator)
 * [als VoteEasy-Superadmin](./superadmin)
-
-{{< video
-src="/video/voteeasy.mp4"
-max-width="640px"
-poster="/video/voteeasy-poster.png">}}
 
 ## Kontakt
 
