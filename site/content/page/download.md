@@ -24,7 +24,7 @@ Da VoteEasy zwischen regulären Teilnehmern und Versammlungsleitern/Administrato
 
 # Quellcode
 
-Wir arbeiten an einer Freigabe via [<i class="fa fa-github" style='font-size:32px;color:#ed9b57'></i> GitHub](https://github.com/voteeasy)!
+Wir arbeiten an einer Freigabe via [<i class="fab fa-github" style='font-size:32px;color:#ed9b57'></i> GitHub](https://github.com/voteeasy)!
 
 VoteEasy wird unter der Lizenz [AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.de.html) zur Verfügung gestellt.
 
