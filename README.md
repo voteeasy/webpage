@@ -119,7 +119,8 @@ just rerun hugo serve multiple times until the message disappears.
 ### Merge requests
 
 * [Typo in shell script](https://github.com/halogenica/beautifulhugo/pull/547)
-* [Reference icons](https://github.com/halogenica/beautifulhugo/issues/549#issuecomment-3736990380)
+* [Reference icons](https://github.com/halogenica/beautifulhugo/issues/549#issuecomment-3736990380) - new shortcode added
+   * Shortcode added via [PR#837](https://github.com/halogenica/beautifulhugo/pull/837)
 * [Mailto in social sharing](https://github.com/halogenica/beautifulhugo/pull/550)
 * [German translation errors](https://github.com/halogenica/beautifulhugo/pull/551)
 * Colour code of the icon is `#ed9b57`
@@ -128,8 +129,9 @@ just rerun hugo serve multiple times until the message disappears.
 
 ### Questions / discussions
 * Question: [allow ASCII-encoding of mail addresses](https://github.com/halogenica/beautifulhugo/issues/548)
-* [How to add video contents](https://github.com/halogenica/beautifulhugo/issues/577)
+* [How to add video contents](https://github.com/halogenica/beautifulhugo/issues/577) - new shortcode video added
    * Shortcodes inspired by https://github.com/halogenica/beautifulhugo/pull/303 and augmented with the help of AI 🤖
+   * Shortcode added via [PR#841](https://github.com/halogenica/beautifulhugo/pull/841#issuecomment-5736819698)
 * [How to handle deprecation warning of .Site.Data/hugo.Data](https://github.com/halogenica/beautifulhugo/issues/581)
 * [Gallery not rendered anymore after update](https://github.com/halogenica/beautifulhugo/issues/640)
 * [Problems to update to v5](https://github.com/halogenica/beautifulhugo/issues/799) - new module structure and changes in configuration required
