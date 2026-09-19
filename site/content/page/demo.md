@@ -5,6 +5,7 @@ comments: false
 ---
 {{< video
 src="/video/voteeasy.mp4"
+alt="VoteEasy in a video"
 poster="/video/voteeasy-poster.png">}}
 
 ## Funktionsumfang
