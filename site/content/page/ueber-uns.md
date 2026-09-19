@@ -23,13 +23,13 @@ VoteEasy kannst Du für dutzende Abstimmungen einsetzen, wie z.B.
 
 ## Entstehungsgeschichte
 
-### <i class="fa fa-people-group" style='font-size:32px;color:#ed9b57'></i> 2026
+### {{<icon class="fa fa-people-group" style="font-size:32px;color:#ed9b57">}} 2026
 
 Mit Beginn des Jahres 2026 entstand die Idee, die Weiterentwicklung von VoteEasy zu verändern.
 Im Zuge dessen wird der Quellcode auf GitHub zur Verfügung gestellt und
 diese Webseite dient zur Dokumentation.
 
-### <i class="fa fa-magnifying-glass-plus" style='font-size:32px;color:#ed9b57'></i> 2025
+### {{<icon class="fa fa-magnifying-glass-plus" style="font-size:32px;color:#ed9b57">}} 2025
 
 Im Rahmen des kommerziellen Betriebs von VoteEasy entstanden Kosten für den Betrieb und das Hosting der Anwendung.
 Die Weiterentwicklung von VoteEasy erfolgte in deutscher, französischer und englischer Sprache.
@@ -43,7 +43,7 @@ Funktional entstanden bis 2025:
 * Einladungsfunktionen und tenantspezifische Einstellungen
 * Selbstregistrierung
 
-### <i class="fa fa-rocket" style='font-size:32px;color:#ed9b57'></i> 2020
+### {{<icon class="fa fa-rocket" style="font-size:32px;color:#ed9b57">}} 2020
 
 Infolge der Maßnahmen im Rahmen der Covidmaßnahmenkrise stieg der Bedarf für elektronisch durchzuführende Abstimmungen
 und die Idee für VoteEasy entstand.
