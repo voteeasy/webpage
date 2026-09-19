@@ -24,4 +24,4 @@ wer an Versammlungen seiner Organisation teilnehmen kann:
 
 Dabei können Codes einzeln entfernt werden oder als sind als CSV-Liste exportierbar, um beispielsweise auch im Rahmen von Serienbriefen versendet zu werden.
 
-zurück zur [<i class="fa fa-backward" style='font-size:16px;color:#ed9b57'></i> Übersicht]({{< relref "/page/demo.md" >}})
+zurück zur [{{<icon class="fa fa-backward" style="font-size:16px;color:#ed9b57">}} Übersicht]({{< relref "/page/demo.md" >}})

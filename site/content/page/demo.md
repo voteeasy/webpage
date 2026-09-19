@@ -44,7 +44,7 @@ Folgende Konzepte sind von VoteEasy umgesetzt:
 * Selbstregistrierung neuer Organisationen möglich
 
 
-## Beispiel: VoteEasy kann auch auf englisch verwendet werden
+## Beispiel: VoteEasy kann auch auf Englisch verwendet werden
 
 ![in english please](/img/demo/english-menu.png)
 

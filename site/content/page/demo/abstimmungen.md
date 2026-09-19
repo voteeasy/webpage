@@ -54,8 +54,8 @@ Beim Anlegen einer neuen Abstimmung entscheidet man als Administrator,
 
 ## Auswertung
 
-Die Stimmauswertung zeigt, welche Abstimmungsoptionen von wievielen Teilnehmern bei der Abstimmung ausgewählt wurden:
+Die Stimmauswertung zeigt, welche Abstimmungsoptionen von wie vielen Teilnehmern bei der Abstimmung ausgewählt wurden:
 
 ![Zwischenergebnisse](/img/demo/abstimmungen/ergebnisuebersicht.png)
 
-zurück zur [<i class="fa fa-backward" style='font-size:16px;color:#ed9b57'></i> Übersicht]({{< relref "/page/demo.md" >}})
+zurück zur [{{<icon class="fa fa-backward" style="font-size:16px;color:#ed9b57">}} Übersicht]({{< relref "/page/demo.md" >}})

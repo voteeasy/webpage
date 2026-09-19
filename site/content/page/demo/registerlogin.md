@@ -73,4 +73,4 @@ Als Superadmin sieht man im Seitenfuß einen grünen, gelben und roten Kringel u
 
 **<i class="fa fa-warning" style='font-size:16px;color:#ed9b57'></i> Dieser Nutzer sollte nicht für Abstimmungen o.ä. benutzt werden, da er vorwiegend administrative Aufgaben wahrnimmt.**
 
-zurück zur [<i class="fa fa-backward" style='font-size:16px;color:#ed9b57'></i> Übersicht]({{< relref "/page/demo.md" >}})
+zurück zur [{{<icon class="fa fa-backward" style="font-size:16px;color:#ed9b57">}} Übersicht]({{< relref "/page/demo.md" >}})
