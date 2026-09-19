@@ -126,6 +126,7 @@ just rerun hugo serve multiple times until the message disappears.
 * Colour code of the icon is `#ed9b57`
 * [GitPageInfo contains wrong date](https://github.com/halogenica/beautifulhugo/issues/552)
 * [Handle singular/plural values in reading time](https://github.com/halogenica/beautifulhugo/pull/553), adapt [en](https://github.com/halogenica/beautifulhugo/pull/554) default as well
+* [Add new shortcodes, fix typos and improve exampleSite](https://github.com/halogenica/beautifulhugo/pull/845)
 
 ### Questions / discussions
 * Question: [allow ASCII-encoding of mail addresses](https://github.com/halogenica/beautifulhugo/issues/548)
