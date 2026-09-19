@@ -17,14 +17,14 @@ VoteEasy kann Dir in vielen Anwendungsszenarien helfen:
 
 Da VoteEasy zwischen regulären Teilnehmern und Versammlungsleitern/Administratoren unterscheidet, hier eine Starthilfe:
 
-* [<i class="fa fa-file-pdf" style='font-size:32px;color:#ed9b57'></i> Kurz-Leitfaden für Teilnehmer (PDF)](/pdf/download/easy_leitfaden_teilnehmer_1.3.pdf)
-* [<i class="fa fa-file-pdf" style='font-size:32px;color:#ed9b57'></i> Step-By-Step-Handbuch für Teilnehmer (PDF)](/pdf/download/step_by_step_Teilnehmer_1.2.pdf)
-* [<i class="fa fa-file-pdf" style='font-size:32px;color:#ed9b57'></i> Step-by-Step-Handbuch für Versammlungsleiter (PDF)](/pdf/download/step_by_step_Adminstrator_1.3.pdf)
-* [<i class="fa fa-image" style='font-size:32px;color:#ed9b57'></i> VoteEasy-Logo für Deine Einladungen (PNG)](/img/download/voteeasy.png)
+* [{{<icon class="fa fa-file-pdf" style="font-size:32px;color:#ed9b57">}} Kurz-Leitfaden für Teilnehmer (PDF)](/pdf/download/easy_leitfaden_teilnehmer_1.3.pdf)
+* [{{<icon class="fa fa-file-pdf" style="font-size:32px;color:#ed9b57">}} Step-By-Step-Handbuch für Teilnehmer (PDF)](/pdf/download/step_by_step_Teilnehmer_1.2.pdf)
+* [{{<icon class="fa fa-file-pdf" style="font-size:32px;color:#ed9b57">}} Step-by-Step-Handbuch für Versammlungsleiter (PDF)](/pdf/download/step_by_step_Adminstrator_1.3.pdf)
+* [{{<icon class="fa fa-image" style="font-size:32px;color:#ed9b57">}} VoteEasy-Logo für Deine Einladungen (PNG)](/img/download/voteeasy.png)
 
 # Quellcode
 
-Wir arbeiten an einer Freigabe via [<i class="fab fa-github" style='font-size:32px;color:#ed9b57'></i> GitHub](https://github.com/voteeasy)!
+Wir arbeiten an einer Freigabe via [{{<icon class="fab fa-github" style="font-size:32px;color:#ed9b57">}} GitHub](https://github.com/voteeasy)!
 
 VoteEasy wird unter der Lizenz [AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.de.html) zur Verfügung gestellt.
 
