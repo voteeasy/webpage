@@ -5,7 +5,6 @@ comments: false
 ---
 {{< video
 src="/video/voteeasy.mp4"
-max-width="640px"
 poster="/video/voteeasy-poster.png">}}
 
 ## Funktionsumfang
