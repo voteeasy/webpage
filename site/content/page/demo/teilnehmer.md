@@ -30,7 +30,7 @@ Die Anmeldung erfolgt über die Eingabemaske, bei der man seine Organisation, se
 
 ## Startseite
 
-Nachdem man sich erfolgreich angemeldet hat, zeigt einem die Startseite, was als nächstes zu tun ist:
+Nachdem man sich erfolgreich angemeldet hat, zeigt einem die Startseite, was als Nächstes zu tun ist:
 
 ![Startseite](/img/demo/teilnehmer/startseite-voteeasy.png)
 

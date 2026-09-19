@@ -71,6 +71,6 @@ Neben der Teilnahme an Abstimmungen kann der Administrator neue Abstimmungen kon
 
 Als Superadmin sieht man im Seitenfuß einen grünen, gelben und roten Kringel und hat ein rot gefärbtes Admin-Menü in der Menüleiste.
 
-**<i class="fa fa-warning" style='font-size:16px;color:#ed9b57'></i> Dieser Nutzer sollte nicht für Abstimmungen o.ä. benutzt werden, da er vorwiegend administrative Aufgaben wahrnimmt.**
+**{{<icon class="fa fa-warning" style="font-size:16px;color:#ed9b57">}} Dieser Nutzer sollte nicht für Abstimmungen o.ä. benutzt werden, da er vorwiegend administrative Aufgaben wahrnimmt.**
 
 zurück zur [{{<icon class="fa fa-backward" style="font-size:16px;color:#ed9b57">}} Übersicht]({{< relref "/page/demo.md" >}})
