@@ -24,20 +24,32 @@ Da VoteEasy zwischen regulären Teilnehmern und Versammlungsleitern/Administrato
 
 # Quellcode
 
-Wir arbeiten an einer Freigabe via [{{<icon class="fab fa-github" style="font-size:32px;color:#ed9b57">}} GitHub](https://github.com/voteeasy) und haben deshalb eine eigene Organisation dafür ins Leben gerufen!
+Wir arbeiten intensiv an einer Freigabe via [{{<icon class="fab fa-github" style="font-size:32px;color:#ed9b57">}} GitHub](https://github.com/voteeasy).
+
+Es existiert eine eigens dafür ins Leben gerufene GitHub-Organisation VoteEasy!
+
+## Lizenz
 
 VoteEasy wird unter der Lizenz [AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.de.html) zur Verfügung gestellt.
 
 ## Testsuite
 
 Zur Absicherung gegen etwaige Regressionen, haben wir eine Testsuite entwickelt, die die wichtigsten Anwendungsfälle abdeckt.
-Diese steht ebenfalls unter der Lizenz [AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.de.html) zur Verfügung und basiert technisch auf Cypress.
+Diese steht ebenfalls unter der Lizenz [AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.de.html) zur Verfügung und basiert technisch auf [Cypress](https://cypress.io).
 Die Testsuite kann lokal ausgeführt werden, um die Funktionsfähigkeit der VoteEasy-Webanwendung zu prüfen.
 
-[{{<icon class="fab fa-github" style="font-size:32px;color:#ed9b57">}} webapp-e2e-tests](https://github.com/voteeasy/webapp-e2e-tests)
+[{{<icon class="fab fa-github" style="font-size:32px;color:#ed9b57">}} voteeasy/webapp-e2e-tests](https://github.com/voteeasy/webapp-e2e-tests)
 
 ## Webanwendung
 
 Die Migration ist in Arbeit - gern noch ein wenig abwarten.
 
+[{{<icon class="fab fa-github" style="font-size:32px;color:#ed9b57">}} voteeasy/webapp](https://github.com/voteeasy/webapp)
+
 Gern später nochmal vorbeischauen - die Seite befindet sich noch im Aufbau!
+
+## Webseite selbst
+
+Diese Webseite selbst ist ebenfalls Open Source und kann unter [{{<icon class="fab fa-github" style="font-size:32px;color:#ed9b57">}} voteeasy/webpage](https://github.com/voteeasy/webpage) gefunden werden.
+Als technische Infrastruktur wird [Hugo](https://gohugo.io/) verwendet, um die eigentliche statische Webseite zu generieren.
+Das verwendete Theme lautet Beautiful Hugo und ist unter [{{<icon class="fab fa-github" style="font-size:32px;color:#ed9b57">}} beautifulhugo](https://github.com/halogenica/beautifulhugo) verfügbar.
