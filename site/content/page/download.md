@@ -24,8 +24,20 @@ Da VoteEasy zwischen regulären Teilnehmern und Versammlungsleitern/Administrato
 
 # Quellcode
 
-Wir arbeiten an einer Freigabe via [{{<icon class="fab fa-github" style="font-size:32px;color:#ed9b57">}} GitHub](https://github.com/voteeasy)!
+Wir arbeiten an einer Freigabe via [{{<icon class="fab fa-github" style="font-size:32px;color:#ed9b57">}} GitHub](https://github.com/voteeasy) und haben deshalb eine eigene Organisation dafür ins Leben gerufen!
 
 VoteEasy wird unter der Lizenz [AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.de.html) zur Verfügung gestellt.
+
+## Testsuite
+
+Zur Absicherung gegen etwaige Regressionen, haben wir eine Testsuite entwickelt, die die wichtigsten Anwendungsfälle abdeckt.
+Diese steht ebenfalls unter der Lizenz [AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.de.html) zur Verfügung und basiert technisch auf Cypress.
+Die Testsuite kann lokal ausgeführt werden, um die Funktionsfähigkeit der VoteEasy-Webanwendung zu prüfen.
+
+[{{<icon class="fab fa-github" style="font-size:32px;color:#ed9b57">}} webapp-e2e-tests](https://github.com/voteeasy/webapp-e2e-tests)
+
+## Webanwendung
+
+Die Migration ist in Arbeit - gern noch ein wenig abwarten.
 
 Gern später nochmal vorbeischauen - die Seite befindet sich noch im Aufbau!
