@@ -42,11 +42,11 @@ Die Testsuite kann lokal ausgeführt werden, um die Funktionsfähigkeit der Vote
 
 ## Webanwendung
 
-Die Migration ist in Arbeit - gern noch ein wenig abwarten.
+Seit 2026-11-01 ist die erste Version der VoteEasy-Webanwendung verfügbar, die ebenso unter der Lizenz [AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.de.html) steht.
 
 [{{<icon class="fab fa-github" style="font-size:32px;color:#ed9b57">}} voteeasy/webapp](https://github.com/voteeasy/webapp)
 
-Gern später nochmal vorbeischauen - die Seite befindet sich noch im Aufbau!
+Die zugehörige Spring-Boot-Anwendung kann mit [Maven](https://maven.apache.org/) gebaut werden. Mittels [Docker](https://www.docker.com/) kann auch [PostgreSQL](https://www.postgresql.org/) als Datenbank verwendet werden.
 
 ## Webseite selbst
 
