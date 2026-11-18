@@ -144,6 +144,11 @@ name = "Über uns"
 url = "page/ueber-uns/"
 weight = 3
 
+[[menu.main]]
+name = "Installation"
+url = "page/install/"
+weight = 3
+
 #[[menu.main]]
 #    name = "Tags"
 #    url = "tags"
