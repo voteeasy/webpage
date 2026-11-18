@@ -26,7 +26,7 @@ VoteEasy kannst Du für dutzende Abstimmungen einsetzen, wie z.B.
 ### {{<icon class="fa fa-people-group" style="font-size:32px;color:#ed9b57">}} 2026
 
 Mit Beginn des Jahres 2026 entstand die Idee, die Weiterentwicklung von VoteEasy zu verändern.
-Im Zuge dessen wird der Quellcode auf GitHub zur Verfügung gestellt und
+Im Zuge dessen wurde im Oktober der Quellcode auf [GitHub](https://github.com/voteeasy/) zur Verfügung gestellt und
 diese Webseite dient zur Dokumentation.
 
 ### {{<icon class="fa fa-magnifying-glass-plus" style="font-size:32px;color:#ed9b57">}} 2025
