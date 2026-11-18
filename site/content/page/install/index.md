@@ -31,9 +31,11 @@ Standardmäßig gibt es in VoteEasy **drei** Organisationen, die mit Beispieldat
 
 ### {{<icon class="fa fa-magnifying-glass-plus" style="font-size:32px;color:#ed9b57">}} Installation für Ungeduldige
 
-Im Rahmen des kommerziellen Betriebs von VoteEasy entstanden Kosten für den Betrieb und das Hosting der Anwendung.
-Die Weiterentwicklung von VoteEasy erfolgte in deutscher, französischer und englischer Sprache.
-Der Technologiestack wurde von SpringBoot2 auf SpringBoot3 weiterentwickelt.
+Unter der Annahme, dass Java, Maven und Docker bereits installiert sind, kann VoteEasy mit den folgenden Befehlen installiert werden:
+
+```bash
+git clone
+```
 
 ## Individuelle Unterstützung und Anfragen
 
