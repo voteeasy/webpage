@@ -4,6 +4,10 @@ subtitle: Anleitungen und der eigentliche Quellcode von VoteEasy.
 comments: false
 ---
 
+# Schnelles Ausprobieren
+
+Wenn Du VoteEasy für Dich lokal ausprobieren möchtest, folge der Anleitung zur [Installation in 3 Schritten]({{< relref "/page/install" >}}).
+
 # Anwendungsszenarien
 
 VoteEasy kann Dir in vielen Anwendungsszenarien helfen:
@@ -13,7 +17,7 @@ VoteEasy kann Dir in vielen Anwendungsszenarien helfen:
 {{< figure thumb="-thumb" link="/img/wordcloud/wortwolke2-1-976x1024.jpg" caption="Anwendungsbeispiele" alt="Anwendungsfälle 2/2" >}}
 {{< /gallery >}}
 
-# Anleitungen
+# Handbücher
 
 Da VoteEasy zwischen regulären Teilnehmern und Versammlungsleitern/Administratoren unterscheidet, hier eine Starthilfe:
 
@@ -24,21 +28,9 @@ Da VoteEasy zwischen regulären Teilnehmern und Versammlungsleitern/Administrato
 
 # Quellcode
 
-Wir arbeiten intensiv an einer Freigabe via [{{<icon class="fab fa-github" style="font-size:32px;color:#ed9b57">}} GitHub](https://github.com/voteeasy).
-
-Es existiert eine eigens dafür ins Leben gerufene GitHub-Organisation VoteEasy!
-
-## Lizenz
+Der Quellcode findet sich auf [{{<icon class="fab fa-github" style="font-size:32px;color:#ed9b57">}} GitHub](https://github.com/voteeasy), in der eigens dafür ins Leben gerufenen GitHub-Organisation VoteEasy!
 
 VoteEasy wird unter der Lizenz [AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.de.html) zur Verfügung gestellt.
-
-## Testsuite
-
-Zur Absicherung gegen etwaige Regressionen, haben wir eine Testsuite entwickelt, die die wichtigsten Anwendungsfälle abdeckt.
-Diese steht ebenfalls unter der Lizenz [AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.de.html) zur Verfügung und basiert technisch auf [Cypress](https://cypress.io).
-Die Testsuite kann lokal ausgeführt werden, um die Funktionsfähigkeit der VoteEasy-Webanwendung zu prüfen.
-
-[{{<icon class="fab fa-github" style="font-size:32px;color:#ed9b57">}} voteeasy/webapp-e2e-tests](https://github.com/voteeasy/webapp-e2e-tests)
 
 ## Webanwendung
 
@@ -48,7 +40,15 @@ Seit 2026-11-01 ist die erste Version der VoteEasy-Webanwendung verfügbar, die 
 
 Die zugehörige Spring-Boot-Anwendung kann mit [Maven](https://maven.apache.org/) gebaut werden. Mittels [Docker](https://www.docker.com/) kann auch [PostgreSQL](https://www.postgresql.org/) als Datenbank verwendet werden.
 
-## Webseite selbst
+## Testsuite
+
+Zur Absicherung gegen etwaige Regressionen, haben wir eine Testsuite entwickelt, die die wichtigsten Anwendungsfälle abdeckt.
+Diese steht ebenfalls unter der Lizenz [AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.de.html) zur Verfügung und basiert technisch auf [Cypress](https://cypress.io).
+Die Testsuite kann lokal ausgeführt werden, um die Funktionsfähigkeit der VoteEasy-Webanwendung zu prüfen.
+
+[{{<icon class="fab fa-github" style="font-size:32px;color:#ed9b57">}} voteeasy/webapp-e2e-tests](https://github.com/voteeasy/webapp-e2e-tests)
+
+## Dokumentationswebseite
 
 Diese Webseite selbst ist ebenfalls Open Source und kann unter [{{<icon class="fab fa-github" style="font-size:32px;color:#ed9b57">}} voteeasy/webpage](https://github.com/voteeasy/webpage) gefunden werden.
 Als technische Infrastruktur wird [Hugo](https://gohugo.io/) verwendet, um die eigentliche statische Webseite zu generieren.
