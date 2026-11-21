@@ -26,16 +26,20 @@ Die Anwendung selbst ist unter der Lizenz [AGPL v3.0](https://www.gnu.org/licens
 Standardmäßig gibt es in VoteEasy **drei** Organisationen, die mit Beispieldaten gefüllt sind. Die Zugangsdaten sind:
 
 * VoteEasy-Organisation: `voteeasy`
-* VoteEasy-Administrator: `admin`
-* VoteEasy-Administrator-Passwort: `voteeasy`
+* VoteEasy-Administrator: `gongbing`
+* VoteEasy-Administrator-Passwort: `gongbing`
 
 ### {{<icon class="fa fa-magnifying-glass-plus" style="font-size:32px;color:#ed9b57">}} Installation für Ungeduldige
 
-Unter der Annahme, dass Java, Maven und Docker bereits installiert sind, kann VoteEasy mit den folgenden Befehlen installiert werden:
+Unter der Annahme, dass Java, Maven und Docker bereits installiert sind, kann VoteEasy mit den folgenden Befehlen gestartet werden:
 
 ```bash
-git clone
+git clone https://github.com/voteeasy/webapp.git
+cd webapp
+./sh/cleanUpDBAndStartDocker.sh
 ```
+
+Die Anwendung ist dann in der Standardkonfiguration unter [http://localhost:8080](http://localhost:8080) aufrufbar.
 
 ## Individuelle Unterstützung und Anfragen
 
