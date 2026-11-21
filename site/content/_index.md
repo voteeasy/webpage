@@ -22,7 +22,7 @@ Der Versammlungsleiter erhält keine Abstimmungsdaten von geheimen Abstimmungen.
 ### <i class="fa fa-circle-check" style='font-size:32px;color:#ed9b57'></i> Rechtlich geprüft
 
 Ein [Rechtsanwalt für Vereinsrecht](https://kanzlei-kohlmeier.de)
-ist ständig eingebezogen. Für ein
+ist ständig einbezogen. Für ein
 rechtssicheres Abstimmungstool. Es ist einfach und intuitiv für Nutzer und ebenso für Administratoren.
 
 ### <i class="fa fa-people-group" style='font-size:32px;color:#ed9b57'></i> Open Source
