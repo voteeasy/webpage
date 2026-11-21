@@ -21,25 +21,44 @@ Die Anwendung selbst ist unter der Lizenz [AGPL v3.0](https://www.gnu.org/licens
 
 ## Installationshinweise
 
-### {{<icon class="fa fa-people-group" style="font-size:32px;color:#ed9b57">}} Zugangsdaten
+### {{<icon class="fa fa-people-group" style="font-size:32px;color:#ed9b57">}} Beispielkonfiguration
 
-Standardmäßig gibt es in VoteEasy **drei** Organisationen, die mit Beispieldaten gefüllt sind. Die Zugangsdaten sind:
+Standardmäßig gibt es in VoteEasy **zwei** Organisationen, die mit Beispieldaten gefüllt sind:
+* `Partei`
+* `Gartenverein`
 
-* VoteEasy-Organisation: `voteeasy`
-* VoteEasy-Administrator: `gongbing`
-* VoteEasy-Administrator-Passwort: `gongbing`
+Jede der Organisationen hat **drei** Nutzer:
+
+* Regulärer Teilnehmer 1: `emil`
+* Teilnehmer 1-Passwort: `emil`
+* Regulärer Teilnehmer 2: `sandman`
+* Teilnehmer 2-Passwort: `sandman`
+* Organisations-Administrator: `gongbing`
+* Organisations-Administrator-Passwort: `gongbing`
+
+Nach erfolgtem Login sollten die Passwörter aus Sicherheitsgründen geändert werden.
 
 ### {{<icon class="fa fa-magnifying-glass-plus" style="font-size:32px;color:#ed9b57">}} Installation für Ungeduldige
 
 Unter der Annahme, dass Java, Maven und Docker bereits installiert sind, kann VoteEasy mit den folgenden Befehlen gestartet werden:
 
 ```bash
-git clone https://github.com/voteeasy/webapp.git
-cd webapp
-./sh/cleanUpDBAndStartDocker.sh
+$ git clone https://github.com/voteeasy/webapp.git
+$ cd webapp
+$ ./sh/cleanUpDBAndStartDocker.sh
 ```
 
 Die Anwendung ist dann in der Standardkonfiguration unter [http://localhost:8080](http://localhost:8080) aufrufbar.
+
+### {{<icon class="fa fa-key" style="font-size:32px;color:#ed9b57">}} Was sollte man ändern?
+
+Aus Sicherheitsgründen sollte mit Hilfe des Instanzadministratorkontos unverzüglich das Passwort verändert werden. Die initialen Zugangsdaten lauten:
+
+* VoteEasy-Organisation: `voteeasy`
+* VoteEasy-Administrator: `gongbing`
+* VoteEasy-Administrator-Passwort: `gongbing`
+
+Mit diesem Adminnutzer kann man auch obige Beispielorganisationen entfernen, um die Anwendung für die eigene Umgebung anzupassen. Es ist jederzeit möglich, weitere Organisationen anzulegen!
 
 ## Individuelle Unterstützung und Anfragen
 
