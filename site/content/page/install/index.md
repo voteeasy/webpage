@@ -21,24 +21,7 @@ Die Anwendung selbst ist unter der Lizenz [AGPL v3.0](https://www.gnu.org/licens
 
 ## Installationshinweise
 
-### {{<icon class="fa fa-people-group" style="font-size:32px;color:#ed9b57">}} Beispielkonfiguration
-
-Standardmäßig gibt es in VoteEasy **zwei** Organisationen, die mit Beispieldaten gefüllt sind:
-* `Partei`
-* `Gartenverein`
-
-Jede der Organisationen hat **drei** Nutzer:
-
-* Regulärer Teilnehmer 1: `emil`
-* Teilnehmer 1-Passwort: `emil`
-* Regulärer Teilnehmer 2: `sandman`
-* Teilnehmer 2-Passwort: `sandman`
-* Organisations-Administrator: `gongbing`
-* Organisations-Administrator-Passwort: `gongbing`
-
-Nach erfolgtem Login sollten die Passwörter aus Sicherheitsgründen geändert werden.
-
-### {{<icon class="fa fa-magnifying-glass-plus" style="font-size:32px;color:#ed9b57">}} Installation für Ungeduldige
+### {{<icon class="fa fa-magnifying-glass-plus" style="font-size:32px;color:#ed9b57">}} Ausprobieren in 3 Schritten
 
 Unter der Annahme, dass Java, Maven und Docker bereits installiert sind, kann VoteEasy mit den folgenden Befehlen gestartet werden:
 
@@ -50,15 +33,31 @@ $ ./sh/cleanUpDBAndStartDocker.sh
 
 Die Anwendung ist dann in der Standardkonfiguration unter [http://localhost:8080](http://localhost:8080) aufrufbar.
 
+### {{<icon class="fa fa-people-group" style="font-size:32px;color:#ed9b57">}} Beispielkonfiguration
+
+Standardmäßig gibt es in VoteEasy **zwei** Organisationen, die mit Beispieldaten gefüllt sind:
+* `Partei`
+* `Gartenverein`
+
+Jede der Organisationen hat **drei** Nutzer:
+
+* Teilnehmer 1: `emil` mit Passwort: `emil`
+* Teilnehmer 2: `sandman` mit Passwort: `sandman`
+* Administrator: `gongbing` mit Passwort: `gongbing`
+
+Nach erfolgtem Login sollten die Passwörter aus Sicherheitsgründen geändert werden.
+
 ### {{<icon class="fa fa-key" style="font-size:32px;color:#ed9b57">}} Was sollte man ändern?
 
 Aus Sicherheitsgründen sollte mit Hilfe des Instanzadministratorkontos unverzüglich das Passwort verändert werden. Die initialen Zugangsdaten lauten:
 
 * VoteEasy-Organisation: `voteeasy`
-* VoteEasy-Administrator: `gongbing`
-* VoteEasy-Administrator-Passwort: `gongbing`
+* VoteEasy-Superadmin: `gongbing`
+* VoteEasy-Superadmin-Passwort: `gongbing`
 
-Mit diesem Adminnutzer kann man auch obige Beispielorganisationen entfernen, um die Anwendung für die eigene Umgebung anzupassen. Es ist jederzeit möglich, weitere Organisationen anzulegen!
+Nur der Superadmin kann auch obige Beispielorganisationen entfernen, um die Anwendung für die eigene Umgebung anzupassen.
+
+Es ist jederzeit möglich, weitere Organisationen anzulegen!
 
 ## Individuelle Unterstützung und Anfragen
 
