@@ -9,7 +9,10 @@ Er verwaltet die Tagesordnung, die Teilnehmerliste und überwacht den Abstimmung
 
 # Tagesordnung
 
-![Beispielabstimmung](/img/demo/abstimmung.png)
+Die Tagesordnung beinhaltet alle zur Abstimmung vorgesehenen Agendapunkte, genannt Beschlussvorschläge.
+Neben der Beschreibung des Beschlussvorschlags, kann der Administrator die Abstimmungsoptionen festlegen, die den Teilnehmern zur Auswahl stehen. Weiters startet und stoppt er die eigentliche Abstimmung.
+
+![Beispieltagesordnung](/img/demo/administrator/tagesordnung-festlegen.png)
 
 # Anwesenheitsliste
 
