@@ -22,7 +22,7 @@ Neben dem Starten und Stoppen der Abstimmung kann der Administrator auch die lau
 
 Wurde eine Abstimmung vom Administrator gestoppt bzw. vom Versammlungsleiter beendet, wird dies angezeigt:
 
-![Abstimmungsende](/img/demo/abstimmungen/abstimmung-beendet.png)
+![Abstimmungsende](/img/demo/administrator/abstimmung-beendet.png)
 
 
 # Anwesenheitsliste
