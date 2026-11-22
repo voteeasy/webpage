@@ -4,10 +4,6 @@ subtitle: Anleitungen und der eigentliche Quellcode von VoteEasy.
 comments: false
 ---
 
-# Schnelles Ausprobieren
-
-Wenn Du VoteEasy für Dich lokal ausprobieren möchtest, folge der Anleitung zur [Installation in 3 Schritten]({{< relref "/page/install" >}}).
-
 # Anwendungsszenarien
 
 VoteEasy kann Dir in vielen Anwendungsszenarien helfen:
@@ -16,6 +12,12 @@ VoteEasy kann Dir in vielen Anwendungsszenarien helfen:
 {{< figure thumb="-thumb" link="/img/wordcloud/wortwolke1-3-1024x1024.jpg" caption="Orte" alt="Anwendungsfälle 1/2" >}}
 {{< figure thumb="-thumb" link="/img/wordcloud/wortwolke2-1-976x1024.jpg" caption="Anwendungsbeispiele" alt="Anwendungsfälle 2/2" >}}
 {{< /gallery >}}
+
+# Schnelles Ausprobieren
+
+Wenn Du VoteEasy für Dich lokal ausprobieren möchtest, folge der Anleitung zur [Installation in 3 Schritten]({{< relref "/page/install" >}}).
+
+![Startseite](/img/demo/startseite.png)
 
 # Handbücher
 

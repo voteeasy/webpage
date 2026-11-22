@@ -20,6 +20,10 @@ Neben dem Starten und Stoppen der Abstimmung kann der Administrator auch die lau
 
 ![Adminansicht Tagesordnung](/img/demo/administrator/tagesordnung-als-admin.png)
 
+Wurde eine Abstimmung vom Administrator gestoppt bzw. vom Versammlungsleiter beendet, wird dies angezeigt:
+
+![Abstimmungsende](/img/demo/abstimmungen/abstimmung-beendet.png)
+
 
 # Anwesenheitsliste
 
