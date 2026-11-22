@@ -31,7 +31,7 @@ In der Anwesenheitsliste sieht der Administrator alle aktiven Sitzungsteilnehmer
 
 Dieser Bereich ermöglicht dem Administrator, Teilnehmer durch Aussenden und Verwalten von Zugangscodes zu seiner Organisation einzuladen. Diese Zugangscodes berechtigen zur einmaligen Anmeldung und verlieren danach ihre Gültigkeit. Jeder Zugangscode entspricht einem Teilnehmer und kann daher nicht mehrfach verwendet werden.
 
-Zur einfacheren Verwaltung und zur Übernahme in Serienbriefeinladungen kann die Liste der Zugangscodes als CSV-Datei exportiert werden. Daneben lassen sich einzelne Codes entfernen oder sperren, um Missbrauch zu verhindern.
+Zur einfacheren Verwaltung und zur Übernahme in Serienbriefeinladungen kann die Liste der Zugangscodes als CSV- oder Excel-Datei exportiert werden. Daneben lassen sich einzelne Codes entfernen oder sperren, um Missbrauch zu verhindern.
 
 Da VoteEasy die Teilnahme in mehreren Organisationen ermöglicht, steuert der Organisationsadmin durch Verwaltung der Zugangscodes,
 wer an Versammlungen seiner jeweiligen Organisation teilnehmen kann. Pro Organisation gibt es nur einen Administrator.

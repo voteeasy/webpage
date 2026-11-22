@@ -21,6 +21,8 @@ Für jede Organisation lässt sich steuern, ob diese aktiv ist, sich also Nutzer
 
 Auf diese Art und Weise kann man abbilden, dass man pro Meeting eine Organisation anlegt und diese nach deren Ende zu Archivierungszwecken deaktiviert, um die Daten zu konservieren.
 
+Unter abgelaufenen Organisationen werden all jene Organisationen verstanden, die vor mehr als 60 Tagen angelegt wurden. So erkennt man noch einfacher, welche Organisationen vielleicht nicht mehr nötig sind und gelöscht werden können.
+
 ## Organisationseinstellungen
 
 Daneben können pro Organisation spezifische Einstellungen (derzeit nur die Anzahl der generierbaren Zugangscodes) festgelegt werden.
@@ -39,26 +41,10 @@ Dabei werden nur Anzahlen von Einträgen in Datenbanktabellen angezeigt (Kardina
 
 ![Kardinalitäten-numerisch](/img/demo/superadmin/datenbankinhalte-zahlen.png)
 
+## Versionsinformationen
 
+Für Supportanfragen ist es nötig zu wissen, welcher Stand der VoteEasy-Instanz vorliegt. Diese Informationen sind im Menüpunkt "Versionsinformationen" abrufbar und beinhalten vorwiegend technische Parameter.
 
-# Login
-
-tbd
-
-## als Teilnehmer
-
-tbd
-
-## als Administrator
-
-tbd
-
-# Abstimmungsübersicht
-
-![Beispielabstimmung](/img/demo/abstimmung.png)
-
-
-
-# Organisationsverwaltung
+![Versionsinfo](/img/demo/superadmin/versionsinfo.png)
 
 zurück zur [{{<icon class="fa fa-backward" style="font-size:16px;color:#ed9b57">}} Übersicht]({{< relref "/page/demo.md" >}})
