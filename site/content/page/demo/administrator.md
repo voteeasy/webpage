@@ -16,7 +16,9 @@ Neben der Beschreibung des Beschlussvorschlags, kann der Administrator die Absti
 
 # Anwesenheitsliste
 
-![Beispielabstimmung](/img/demo/abstimmung.png)
+In der Anwesenheitsliste sieht der Administrator alle aktiven Sitzungsteilnehmer. Nur aktive Teilnehmer können abstimmen, indem sie dem Meeting beitreten. Die Anwesenheitsliste beinhaltet den Zeitpunkt, zu dem ein Teilnehmer beigetreten ist und wie sein Anmeldename und Login-Nutzername lautet.
+
+![Anwesenheit](/img/demo/administrator/anwesenheitsliste.png)
 
 # Teilnehmerverwaltung
 
