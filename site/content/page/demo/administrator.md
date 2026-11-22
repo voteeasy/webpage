@@ -14,6 +14,13 @@ Neben der Beschreibung des Beschlussvorschlags, kann der Administrator die Absti
 
 ![Tagesordnung](/img/demo/administrator/tagesordnung-festlegen.png)
 
+# Steuerung der Abstimmung
+
+Neben dem Starten und Stoppen der Abstimmung kann der Administrator auch die laufende Abstimmung überwachen und den Zwischenstand einsehen. Dies ermöglicht während einer laufenden Abstimmung beispielsweise eine Richtung einzusehen.
+
+![Adminansicht Tagesordnung](/img/demo/administrator/tagesordnung-als-admin.png)
+
+
 # Anwesenheitsliste
 
 In der Anwesenheitsliste sieht der Administrator alle aktiven Sitzungsteilnehmer. Nur aktive Teilnehmer können abstimmen, indem sie dem Meeting zuvor beitreten. Die Anwesenheitsliste beinhaltet den Zeitpunkt, zu dem ein Teilnehmer beigetreten ist und wie sein Anmeldename und Login-Nutzername lautet.
